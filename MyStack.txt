@@ -1,0 +1,92 @@
+using System;
+using System.Collections;
+using System.Collections.Generic;
+using System.Linq;
+using System.Runtime.Serialization;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace MyStatck
+{
+    class Program
+    {
+        public static int stackTop;
+        public static int[] item;
+
+     
+
+        public static void push(int x)
+        {
+    if (stackTop == item.Length)
+    {
+       throw new StackException("Stack overflow");
+    }
+
+    item[stackTop] = x;         // Store x in next slot
+    stackTop++;                 // Advance one slot location
+      }
+
+public static int pop()
+{
+    int returnItem;
+   
+    if ( stackTop == 0 )
+
+        {
+        throw new StackException("Stack underflow");
+        }
+
+    returnItem = item [stackTop-1 ];   // Get last stored item
+    stackTop--;                        // Back up one slot location
+   
+    return returnItem;
+}
+
+
+        public static void my_stack()
+        {
+            int x;
+
+
+
+            stackTop = 0;    // Will cause underflow
+            item = new int[4];
+            try
+            {
+                x = 4;
+                push(4);
+                x = 7;
+                push(7);
+                x = 8;
+                push(8);
+                x = 9;
+                push(9);
+
+                x = pop();
+                Console.WriteLine("pop() ---> " + x);
+                x = pop();
+               
+                Console.WriteLine("pop() ---> " + x);
+                x = pop();
+               
+                Console.WriteLine("pop() ---> " + x);
+                x = pop();
+                Console.WriteLine("pop() ---> " + x);
+               
+                Console.ReadLine();
+            }
+            catch (Exception e)
+            {
+                Console.WriteLine("Error " + e.ToString());
+
+            }
+
+        }
+
+        public static  void Main(string[] args)
+        {
+            my_stack();
+        }
+
+       
+    }

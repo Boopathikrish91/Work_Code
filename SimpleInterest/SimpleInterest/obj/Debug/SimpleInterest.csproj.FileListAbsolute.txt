@@ -1,0 +1,10 @@
+C:\.Net-Training\my_work\SimpleInterest\SimpleInterest\bin\Debug\SimpleInterest.exe.config
+C:\.Net-Training\my_work\SimpleInterest\SimpleInterest\bin\Debug\SimpleInterest.exe
+C:\.Net-Training\my_work\SimpleInterest\SimpleInterest\bin\Debug\SimpleInterest.pdb
+C:\.Net-Training\my_work\SimpleInterest\SimpleInterest\obj\Debug\SimpleInterest.csprojAssemblyReference.cache
+C:\.Net-Training\my_work\SimpleInterest\SimpleInterest\obj\Debug\SimpleInterest.Form1.resources
+C:\.Net-Training\my_work\SimpleInterest\SimpleInterest\obj\Debug\SimpleInterest.Properties.Resources.resources
+C:\.Net-Training\my_work\SimpleInterest\SimpleInterest\obj\Debug\SimpleInterest.csproj.GenerateResource.cache
+C:\.Net-Training\my_work\SimpleInterest\SimpleInterest\obj\Debug\SimpleInterest.csproj.CoreCompileInputs.cache
+C:\.Net-Training\my_work\SimpleInterest\SimpleInterest\obj\Debug\SimpleInterest.exe
+C:\.Net-Training\my_work\SimpleInterest\SimpleInterest\obj\Debug\SimpleInterest.pdb

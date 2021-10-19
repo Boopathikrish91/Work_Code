@@ -1,0 +1,16 @@
+C:\.Net-Training\my_work\WpfDemo\WpfDemo\obj\Debug\WpfDemo.csprojAssemblyReference.cache
+C:\.Net-Training\my_work\WpfDemo\WpfDemo\obj\Debug\MainWindow.g.cs
+C:\.Net-Training\my_work\WpfDemo\WpfDemo\obj\Debug\App.g.cs
+C:\.Net-Training\my_work\WpfDemo\WpfDemo\obj\Debug\WpfDemo_MarkupCompile.cache
+C:\.Net-Training\my_work\WpfDemo\WpfDemo\obj\Debug\WpfDemo_MarkupCompile.lref
+C:\.Net-Training\my_work\WpfDemo\WpfDemo\bin\Debug\WpfDemo.exe.config
+C:\.Net-Training\my_work\WpfDemo\WpfDemo\bin\Debug\WpfDemo.exe
+C:\.Net-Training\my_work\WpfDemo\WpfDemo\bin\Debug\WpfDemo.pdb
+C:\.Net-Training\my_work\WpfDemo\WpfDemo\obj\Debug\MainWindow.baml
+C:\.Net-Training\my_work\WpfDemo\WpfDemo\obj\Debug\WpfDemo.g.resources
+C:\.Net-Training\my_work\WpfDemo\WpfDemo\obj\Debug\WpfDemo.Properties.Resources.resources
+C:\.Net-Training\my_work\WpfDemo\WpfDemo\obj\Debug\WpfDemo.csproj.GenerateResource.cache
+C:\.Net-Training\my_work\WpfDemo\WpfDemo\obj\Debug\WpfDemo.csproj.CoreCompileInputs.cache
+C:\.Net-Training\my_work\WpfDemo\WpfDemo\obj\Debug\WpfDemo.exe
+C:\.Net-Training\my_work\WpfDemo\WpfDemo\obj\Debug\WpfDemo.pdb
+C:\.Net-Training\my_work\WpfDemo\WpfDemo\obj\Debug\GeneratedInternalTypeHelper.g.cs

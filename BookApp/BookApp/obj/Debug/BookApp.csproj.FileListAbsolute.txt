@@ -1,0 +1,15 @@
+C:\.Net-Training\my_work\BookApp\BookApp\bin\Debug\BookApp.exe.config
+C:\.Net-Training\my_work\BookApp\BookApp\bin\Debug\BookApp.exe
+C:\.Net-Training\my_work\BookApp\BookApp\bin\Debug\BookApp.pdb
+C:\.Net-Training\my_work\BookApp\BookApp\obj\Debug\BookApp.csprojAssemblyReference.cache
+C:\.Net-Training\my_work\BookApp\BookApp\obj\Debug\MainWindow.g.cs
+C:\.Net-Training\my_work\BookApp\BookApp\obj\Debug\App.g.cs
+C:\.Net-Training\my_work\BookApp\BookApp\obj\Debug\BookApp_MarkupCompile.cache
+C:\.Net-Training\my_work\BookApp\BookApp\obj\Debug\BookApp_MarkupCompile.lref
+C:\.Net-Training\my_work\BookApp\BookApp\obj\Debug\MainWindow.baml
+C:\.Net-Training\my_work\BookApp\BookApp\obj\Debug\BookApp.g.resources
+C:\.Net-Training\my_work\BookApp\BookApp\obj\Debug\BookApp.Properties.Resources.resources
+C:\.Net-Training\my_work\BookApp\BookApp\obj\Debug\BookApp.csproj.GenerateResource.cache
+C:\.Net-Training\my_work\BookApp\BookApp\obj\Debug\BookApp.csproj.CoreCompileInputs.cache
+C:\.Net-Training\my_work\BookApp\BookApp\obj\Debug\BookApp.exe
+C:\.Net-Training\my_work\BookApp\BookApp\obj\Debug\BookApp.pdb

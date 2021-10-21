@@ -1,0 +1,36 @@
+C:\Users\MY PC\Downloads\202010-lnt-dotnet-main (7)\202010-lnt-dotnet-main\Programs\WPFDemos\Wpf07MarkupExtension\bin\Debug\Wpf07MarkupExtension.exe.config
+C:\Users\MY PC\Downloads\202010-lnt-dotnet-main (7)\202010-lnt-dotnet-main\Programs\WPFDemos\Wpf07MarkupExtension\bin\Debug\Wpf07MarkupExtension.exe
+C:\Users\MY PC\Downloads\202010-lnt-dotnet-main (7)\202010-lnt-dotnet-main\Programs\WPFDemos\Wpf07MarkupExtension\bin\Debug\Wpf07MarkupExtension.pdb
+C:\Users\MY PC\Downloads\202010-lnt-dotnet-main (7)\202010-lnt-dotnet-main\Programs\WPFDemos\Wpf07MarkupExtension\bin\Debug\ConceptArchitect.Wpf.dll
+C:\Users\MY PC\Downloads\202010-lnt-dotnet-main (7)\202010-lnt-dotnet-main\Programs\WPFDemos\Wpf07MarkupExtension\bin\Debug\ConceptArchitect.Wpf.pdb
+C:\Users\MY PC\Downloads\202010-lnt-dotnet-main (7)\202010-lnt-dotnet-main\Programs\WPFDemos\Wpf07MarkupExtension\obj\Debug\Wpf07MarkupExtension.csprojAssemblyReference.cache
+C:\Users\MY PC\Downloads\202010-lnt-dotnet-main (7)\202010-lnt-dotnet-main\Programs\WPFDemos\Wpf07MarkupExtension\obj\Debug\MainWindow.g.cs
+C:\Users\MY PC\Downloads\202010-lnt-dotnet-main (7)\202010-lnt-dotnet-main\Programs\WPFDemos\Wpf07MarkupExtension\obj\Debug\App.g.cs
+C:\Users\MY PC\Downloads\202010-lnt-dotnet-main (7)\202010-lnt-dotnet-main\Programs\WPFDemos\Wpf07MarkupExtension\obj\Debug\Wpf07MarkupExtension_MarkupCompile.cache
+C:\Users\MY PC\Downloads\202010-lnt-dotnet-main (7)\202010-lnt-dotnet-main\Programs\WPFDemos\Wpf07MarkupExtension\obj\Debug\Wpf07MarkupExtension_MarkupCompile.lref
+C:\Users\MY PC\Downloads\202010-lnt-dotnet-main (7)\202010-lnt-dotnet-main\Programs\WPFDemos\Wpf07MarkupExtension\obj\Debug\MainWindow.baml
+C:\Users\MY PC\Downloads\202010-lnt-dotnet-main (7)\202010-lnt-dotnet-main\Programs\WPFDemos\Wpf07MarkupExtension\obj\Debug\Wpf07MarkupExtension.g.resources
+C:\Users\MY PC\Downloads\202010-lnt-dotnet-main (7)\202010-lnt-dotnet-main\Programs\WPFDemos\Wpf07MarkupExtension\obj\Debug\Wpf07MarkupExtension.Properties.Resources.resources
+C:\Users\MY PC\Downloads\202010-lnt-dotnet-main (7)\202010-lnt-dotnet-main\Programs\WPFDemos\Wpf07MarkupExtension\obj\Debug\Wpf07MarkupExtension.csproj.GenerateResource.cache
+C:\Users\MY PC\Downloads\202010-lnt-dotnet-main (7)\202010-lnt-dotnet-main\Programs\WPFDemos\Wpf07MarkupExtension\obj\Debug\Wpf07MarkupExtension.csproj.CoreCompileInputs.cache
+C:\Users\MY PC\Downloads\202010-lnt-dotnet-main (7)\202010-lnt-dotnet-main\Programs\WPFDemos\Wpf07MarkupExtension\obj\Debug\Wpf07MarkupExtension.csproj.CopyComplete
+C:\Users\MY PC\Downloads\202010-lnt-dotnet-main (7)\202010-lnt-dotnet-main\Programs\WPFDemos\Wpf07MarkupExtension\obj\Debug\Wpf07MarkupExtension.exe
+C:\Users\MY PC\Downloads\202010-lnt-dotnet-main (7)\202010-lnt-dotnet-main\Programs\WPFDemos\Wpf07MarkupExtension\obj\Debug\Wpf07MarkupExtension.pdb
+C:\.Net-Training\WPFDemos\Wpf07MarkupExtension\bin\Debug\Wpf07MarkupExtension.exe.config
+C:\.Net-Training\WPFDemos\Wpf07MarkupExtension\bin\Debug\Wpf07MarkupExtension.exe
+C:\.Net-Training\WPFDemos\Wpf07MarkupExtension\bin\Debug\Wpf07MarkupExtension.pdb
+C:\.Net-Training\WPFDemos\Wpf07MarkupExtension\bin\Debug\ConceptArchitect.Wpf.dll
+C:\.Net-Training\WPFDemos\Wpf07MarkupExtension\bin\Debug\ConceptArchitect.Wpf.pdb
+C:\.Net-Training\WPFDemos\Wpf07MarkupExtension\obj\Debug\Wpf07MarkupExtension.csprojAssemblyReference.cache
+C:\.Net-Training\WPFDemos\Wpf07MarkupExtension\obj\Debug\MainWindow.g.cs
+C:\.Net-Training\WPFDemos\Wpf07MarkupExtension\obj\Debug\App.g.cs
+C:\.Net-Training\WPFDemos\Wpf07MarkupExtension\obj\Debug\Wpf07MarkupExtension_MarkupCompile.cache
+C:\.Net-Training\WPFDemos\Wpf07MarkupExtension\obj\Debug\Wpf07MarkupExtension_MarkupCompile.lref
+C:\.Net-Training\WPFDemos\Wpf07MarkupExtension\obj\Debug\MainWindow.baml
+C:\.Net-Training\WPFDemos\Wpf07MarkupExtension\obj\Debug\Wpf07MarkupExtension.g.resources
+C:\.Net-Training\WPFDemos\Wpf07MarkupExtension\obj\Debug\Wpf07MarkupExtension.Properties.Resources.resources
+C:\.Net-Training\WPFDemos\Wpf07MarkupExtension\obj\Debug\Wpf07MarkupExtension.csproj.GenerateResource.cache
+C:\.Net-Training\WPFDemos\Wpf07MarkupExtension\obj\Debug\Wpf07MarkupExtension.csproj.CoreCompileInputs.cache
+C:\.Net-Training\WPFDemos\Wpf07MarkupExtension\obj\Debug\Wpf07MarkupExtension.csproj.CopyComplete
+C:\.Net-Training\WPFDemos\Wpf07MarkupExtension\obj\Debug\Wpf07MarkupExtension.exe
+C:\.Net-Training\WPFDemos\Wpf07MarkupExtension\obj\Debug\Wpf07MarkupExtension.pdb

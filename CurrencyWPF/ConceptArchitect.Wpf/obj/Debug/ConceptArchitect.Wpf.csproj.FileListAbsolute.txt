@@ -1,0 +1,8 @@
+C:\Users\MY PC\Downloads\202010-lnt-dotnet-main (7)\202010-lnt-dotnet-main\Programs\WPFDemos\ConceptArchitect.Wpf\bin\Debug\ConceptArchitect.Wpf.dll
+C:\Users\MY PC\Downloads\202010-lnt-dotnet-main (7)\202010-lnt-dotnet-main\Programs\WPFDemos\ConceptArchitect.Wpf\bin\Debug\ConceptArchitect.Wpf.pdb
+C:\Users\MY PC\Downloads\202010-lnt-dotnet-main (7)\202010-lnt-dotnet-main\Programs\WPFDemos\ConceptArchitect.Wpf\obj\Debug\ConceptArchitect.Wpf.csprojAssemblyReference.cache
+C:\Users\MY PC\Downloads\202010-lnt-dotnet-main (7)\202010-lnt-dotnet-main\Programs\WPFDemos\ConceptArchitect.Wpf\obj\Debug\ConceptArchitect.Wpf.Properties.Resources.resources
+C:\Users\MY PC\Downloads\202010-lnt-dotnet-main (7)\202010-lnt-dotnet-main\Programs\WPFDemos\ConceptArchitect.Wpf\obj\Debug\ConceptArchitect.Wpf.csproj.GenerateResource.cache
+C:\Users\MY PC\Downloads\202010-lnt-dotnet-main (7)\202010-lnt-dotnet-main\Programs\WPFDemos\ConceptArchitect.Wpf\obj\Debug\ConceptArchitect.Wpf.csproj.CoreCompileInputs.cache
+C:\Users\MY PC\Downloads\202010-lnt-dotnet-main (7)\202010-lnt-dotnet-main\Programs\WPFDemos\ConceptArchitect.Wpf\obj\Debug\ConceptArchitect.Wpf.dll
+C:\Users\MY PC\Downloads\202010-lnt-dotnet-main (7)\202010-lnt-dotnet-main\Programs\WPFDemos\ConceptArchitect.Wpf\obj\Debug\ConceptArchitect.Wpf.pdb
